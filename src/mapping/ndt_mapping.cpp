@@ -1,4 +1,4 @@
-#include <ese_SLAM/ndt_slam.h>
+#include <ese_SLAM/SLAM_utility.h>
 
 int main (int argc, char** argv)
 {
