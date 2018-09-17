@@ -5,7 +5,7 @@ This project is SLAM algorithm using NDT.
 
 # Deep_learning for SLAM
 
-CULanedata data was used for training. You can download it below the link.
-:https://xingangpan.github.io/projects/CULane.html
-Tusimple dataset was used for training. You can download it below the link.
-:http://benchmark.tusimple.ai/#/ 
+[CULane](https://xingangpan.github.io/projects/CULane.html) dataset was used for training. You can download it below the link.
+
+[Tusimple](http://benchmark.tusimple.ai/#/) dataset was used for training. You can download it below the link.
+ 
